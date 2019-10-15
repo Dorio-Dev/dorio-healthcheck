@@ -1,0 +1,5 @@
+processes:
+  - name: test1
+    ps: logind
+  - name: test2
+    ps: docker
